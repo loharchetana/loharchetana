@@ -1,26 +1,26 @@
+# Hi there, I'm Chetana
 
-# Hi there, I'm Chetana! 👋
-Welcome to my GitHub profile! I am a passionate tech enthusiast currently diving deep into the world of computer science and software development.
+Computer Science undergraduate with a strong interest in software development and emerging technologies.
 
-## 👩‍💻 About Me
-- 🎓 I am currently pursuing my **BTech in Computer Science and Engineering (CSE)** at **Seacom Skills University**.
+## About Me
 
-- 🏫 I previously studied at **RSGHS**, where my favorite focus areas were **Computer Application, Mathematics, Physics, and Chemistry**.
+- Pursuing BTech in Computer Science and Engineering (CSE) at Seacom Skills University
+- Previously studied at RSGHS, with focus areas in Computer Application, Mathematics, Physics, and Chemistry
+- Interested in exploring new technologies and understanding how systems work
+- Enjoy data entry and organizing information efficiently in my free time
 
-- 🚀 I have a strong passion for **exploring new technologies** and keeping up with the ever-evolving tech landscape.
+## Technical Skills
 
-- ⌨️ In my free time, I enjoy doing **data entry** and finding ways to organize information efficiently.  
+- Languages: C, C++, Python
+- Frameworks: Next.js, Node.js
 
-## ⚡ What I'm Up To
-- 🌱 Actively learning and building projects to apply my BTech CSE coursework.
+## Currently
 
-- 💡 Experimenting with new tech stacks and figuring out how things work under the hood.
+- Building projects to apply CSE coursework
+- Experimenting with new tech stacks
+- Open to collaborating on projects and learning from the developer community
 
-- 🤝 I'm open to collaborating on tech projects and learning from the developer community!
+## Contact
 
-## 📫 Let's Connect
--  **Email:** [lohar.chetana2005@gmail.com](mailto:lohar.chetana2005@gmail.com)
-
--  **LinkedIn:** [Chetana Lohar](https://www.linkedin.com/in/chetana-lohar-00a207360?utm_source=share_via&utm_content=profile&utm_medium=member_android)
----
-⭐️ *Thanks for stopping by my profile! Let's explore and learn together.*
+- Email: [lohar.chetana2005@gmail.com](mailto:lohar.chetana2005@gmail.com)
+- LinkedIn: [Chetana Lohar](https://www.linkedin.com/in/chetana-lohar-00a207360)
